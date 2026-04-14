@@ -1,9 +1,7 @@
+Project Sentinel is a specialized Neural Network framework designed for urban flood resilience. The system integrates real-time meteorological data with a 24-month hydrological footprint to assess flood risk based on soil saturation, infrastructure capacity, and atmospheric load.This project was developed for the Cognizant Hackathon to demonstrate Explainable AI (XAI) in environmental monitoring.
+
 ![WhatsApp Image 2026-04-14 at 9 27 32 PM](https://github.com/user-attachments/assets/814cf573-750c-4a52-bc63-e8c2e104b6e5)
 
-
-Project Sentinel is a specialized Neural Network framework designed for urban flood resilience. The system integrates real-time meteorological data with a 24-month hydrological footprint to assess flood risk based on soil saturation, infrastructure capacity, and atmospheric load.
-
-This project was developed for the Cognizant Hackathon to demonstrate Explainable AI (XAI) in environmental monitoring.
 
 Technical Overview
 The system transitions from traditional binary reporting to a probabilistic model, providing Explainable Intelligence (XAI) by analyzing current environmental variables against historical climate cycles.
