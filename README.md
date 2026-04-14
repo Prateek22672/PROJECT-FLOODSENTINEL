@@ -1,4 +1,5 @@
-<img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/22de9d77-8598-421c-bfc2-a2df18b1883d" />
+![WhatsApp Image 2026-04-14 at 9 27 32 PM](https://github.com/user-attachments/assets/814cf573-750c-4a52-bc63-e8c2e104b6e5)
+
 
 Project Sentinel is a specialized Neural Network framework designed for urban flood resilience. The system integrates real-time meteorological data with a 24-month hydrological footprint to assess flood risk based on soil saturation, infrastructure capacity, and atmospheric load.
 
@@ -12,7 +13,7 @@ Predictive Engine: A pre-trained machine learning model (Random Forest/XGBoost) 
 
 Temporal Trend Analysis: Real-time integration of 90-day, 6-month, and 12-month climate archives to determine ground saturation levels.
 
-![WhatsApp Image 2026-04-14 at 9 28 18 PM](https://github.com/user-attachments/assets/e6cbf167-ae64-4d52-9864-1478bda421da)
+![WhatsApp Image 2026-04-14 at 9 28 18 PM](https://github.com/user-attachments/assets/87abfa18-a300-4b1a-84a8-39a46314d59f)
 
 
 Explainable AI (XAI): A reasoning module that translates numerical risk indices into technical insights regarding the "Sponge Effect" and infrastructure load.
