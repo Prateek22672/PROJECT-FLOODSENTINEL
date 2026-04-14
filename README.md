@@ -29,6 +29,18 @@ The system transitions from traditional binary reporting to a probabilistic mode
 
 ---
 
+## Datasets and Data Sources
+Project Sentinel utilizes a multimodal data strategy, combining historical ground-truth records for training with real-time telemetry for live inference.
+
+### Training Data
+The model was trained on a curated dataset of over 50,000 observations, focusing on 20 critical environmental variables. This includes historical monsoon data, topography scores, and drainage siltation levels to ensure high-precision risk calculation.
+
+### Live Telemetry (Open-Meteo)
+* **Real-time Nodes:** Continuous fetching of temperature and humidity via the Open-Meteo API.
+* **Historical Archives:** Analysis of 90-day cumulative precipitation to dynamically adjust the Ground Saturation Index.
+
+---
+
 ## Methodology and Logic
 The system operates via a multi-stage analytical pipeline:
 
